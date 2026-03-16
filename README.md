@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-✨An independent developer from Wuhan University
+✨full-stack developer from Wuhan University
 
 <!--
 **ma1zeryu/ma1zeryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
