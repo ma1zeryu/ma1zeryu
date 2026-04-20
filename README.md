@@ -4,4 +4,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ma1zeryu)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs,ts,cpp,python,git,docker,vim,github,latex,linux,md,vite,go&perline=9)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,vite,linux,cpp,python,git,docker,vim,github,latex,md,go&perline=9)
