@@ -5,5 +5,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=ma1zeryu)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,vite,linux,cpp,python,git,docker,vim,github,mysql,redis,java&perline=9)
-
-<img src="https://raw.githubusercontent.com/ma1zeryu/ltypescript/main/1.jpg" width="400">
